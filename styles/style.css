@@ -182,6 +182,10 @@ a {
   align-items: center;
 }
 
+.icon-container--accent {
+  background: var(--color-accent);
+}
+
 .icon--small {
   width: 30px;
   height: 30px;
